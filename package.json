@@ -1,0 +1,26 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "In this exercise we are going to introduce express validator. We will use it to check incoming form data. We will assure the sent data is how we expect it to be to secure the integrity of our database data.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-17/ds-validation-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-17/ds-validation-2/issues"
+  },
+  "homepage": "https://github.com/FBW-17/ds-validation-2#readme"
+}
